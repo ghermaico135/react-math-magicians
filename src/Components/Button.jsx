@@ -4,7 +4,7 @@ const Button = () => (
   <div className="container">
     <div className="grid-container">
 
-      <input className=" value-input" type="text" value="0" />
+      {/* <input className=" value-input" type="text" value="0" /> */}
       <button type="button">AC </button>
       <button type="button">+/- </button>
       <button type="button"> % </button>
