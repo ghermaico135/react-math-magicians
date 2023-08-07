@@ -142,7 +142,7 @@ https://...
 
 ### Authors
 
- GitHub: [ghermaico135](https://github.com/ghermaico135)
+- GitHub: [ghermaico135](https://github.com/ghermaico135)
 - Twitter: [@Mikidarling3](https://twitter.com/@Mikidarling3)
 - LinkedIn: [Michael okbamichael](https://www.linkedin.com/in/michael-okbamichael-966106263/)
 

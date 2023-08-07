@@ -37,7 +37,6 @@
   padding: 10px;
   grid-column: 1 / span 4;
   grid-row: 1;
-  width: 100%;
 }
 
 .value-input:focus {
