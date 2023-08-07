@@ -1,14 +1,14 @@
 /** @format */
 
-import './App.css';
-import Button from './Components/Button';
+import "./App.css";
+import Button from "./Components/Button";
 
 function App() {
-  return (
-    <div>
-      <Button />
-    </div>
-  );
+	return (
+		<div>
+			<Button />
+		</div>
+	);
 }
 
 export default App;
