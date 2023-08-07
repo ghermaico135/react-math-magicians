@@ -1,12 +1,12 @@
 /** @format */
 
 import './App.css';
-import Button from './Components/Button';
+import Calculator from './Components/Calculator';
 
 function App() {
   return (
     <div>
-      <Button />
+      <Calculator />
     </div>
   );
 }
