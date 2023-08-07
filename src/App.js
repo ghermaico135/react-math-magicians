@@ -1,7 +1,7 @@
 /** @format */
 
 import './App.css';
-import Calculator from './Components/Calculator';
+import Calculator from './Components/Button';
 
 function App() {
   return (
